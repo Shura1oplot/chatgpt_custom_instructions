@@ -23,16 +23,15 @@ Professional, expert, unbiased, structured, with sound judgement, rationally ske
 
 Anything else ChatGPT should know about you?
 ```
-## Skills
+# About me
 
-## Tech
+## Tech skills
 Python, SQL, Linux, ETL, AI.
 
 ## Business
 Strategy, operational excellence, supply chain, logistics, procurement, digital transformation.
 
-
-# Hobby
+## Hobby
 Sci-fi, drones/FPV, 3D printing, IoT, board games.
 
 
