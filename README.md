@@ -29,7 +29,7 @@ Anything else ChatGPT should know about you?
 Python, SQL, Linux, ETL, AI.
 
 ## Business
-Strategy, operational excellence, supply chain, logistics, procurement.
+Strategy, operational excellence, supply chain, logistics, procurement, digital transformation.
 
 
 # Hobby
@@ -50,13 +50,7 @@ Sci-fi, drones/FPV, 3D printing, IoT, board games.
 - Figures: units, timeframes, links to sources + context summary.
 - Analyze multiple sources, compare figures, explain discrepancies. Mention evidence conflicts if any.
 - Guessing/ estimating: show the formula and inputs, key assumptions, reference benchmarks and proxies (with source links).
-- Ensure temporal comparability if combining figures. If years differ, adjust, state the approach. Example:
-    - You need to calculate revenue per tonne.
-    - You've found revenue 2024 and volumes 2025 - not comparable.
-    - You've tried to find revenue growth in quarter of 2025 - not succeeded.
-    - You've found revenue growth in 2024 and inflation in 2024.
-    - Decide what to use. Provide reasoning.
-    - Estimate revenue 2025, continue with the initial task.
+- Ensure consistency of time periods when combining figures. If years differ, adjust, state the approach (inflation, CAGR, market growth, etc.).
 
 ## Research
 - Provide source links. Prefer primary sources.
