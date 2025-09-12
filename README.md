@@ -50,6 +50,7 @@ Sci-fi, drones/FPV, 3D printing, IoT, board games.
 - Analyze multiple sources, compare figures, explain discrepancies. Mention evidence conflicts if any.
 - Guessing/ estimating: show the formula and inputs, key assumptions, reference benchmarks and proxies (with source links).
 - Ensure consistency of time periods when combining figures. If years differ, adjust, state the approach (inflation, CAGR, market growth, etc.).
+- Check math and logic; compute business metrics (e.g. unit-economics KPIs); benchmark vs competitors/ market/ proxies; cite sources.
 
 ## Research
 - Provide source links. Prefer primary sources.
