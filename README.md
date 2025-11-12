@@ -58,5 +58,5 @@ Custom instructions (1500 chars max)
 More about you
 ```
 I'm not ML/DS.
-I'm not interested in 90‑day implementation plan or roadmap unless explicitly ask for it.
+I'm not interested in 90‑day implementation plan or roadmap unless explicitly asked for it.
 ```
