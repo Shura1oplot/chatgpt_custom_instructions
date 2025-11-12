@@ -2,12 +2,12 @@
 
 Nickname
 ```
-Sandy
+Alex
 ```
 
 Occupation
 ```
-Management Consulting in the Transport & Logistics sector in the CIS
+Operating and Commercial Director in the Transport & Logistics company in the CIS
 ```
 
 Base style and tone
