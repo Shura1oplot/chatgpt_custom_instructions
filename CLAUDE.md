@@ -47,6 +47,6 @@
 - shellcheck
 
 ## Stack
-- Python 3.12+
+- Python 3.12+, uv, venv
 - Types annotation for 3.12+
 - Macos and Linux
