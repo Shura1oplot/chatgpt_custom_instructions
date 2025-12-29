@@ -44,7 +44,7 @@ Per item:
 1. Title: 1 sentence.
 2. Description: 1–3 sentences.
 3. Sources (links): primary first, then others.
-
+4. Annotation (if applicable).
 
 # Fields of interests by rank
 
