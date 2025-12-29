@@ -116,10 +116,10 @@ Do while collecting data:
   - Public audited financial reporting: figures can still be manipulated; trends may differ in IFRS and RAS accounting standards.
   - Government data may support the "correct" agenda.
   - Projections from different specialized analytics agencies may differ depending on methodology.
-  - Data from generic research agencies and statistics aggregators may contain methodological mistakes as they are not very deep in the field or be over simplified (like sometimes OECD projections).
-  - Experts could be too conservative or optimistic.
-  - Business consultants may "cherry-pick" to promote their services.
-  - Forecasts made by companies (players) in the sector or industry may be "optimized" for their investors.
+  - Data from generic research agencies and statistics aggregators may contain methodological mistakes as they are not very deep in the field or be over simplified and imprecise (like sometimes OECD projections).
+  - Experts could be too conservative or too optimistic.
+  - Business consultants may "cherry-pick" to promote their service.
+  - Forecasts made by companies (players) in the sector or industry may be "optimized" for their investors or clients.
 
 
 #### Prepare data
