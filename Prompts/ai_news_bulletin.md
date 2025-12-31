@@ -127,11 +127,6 @@ You MUST output valid XML following this format. Values are in plain text, not M
         ...link to source...
       </link>
     </sources>
-    <editor>
-      <note>  <!-- optional, up to 3 notes -->
-        ...editor's note...
-      </note>
-    </editor>
   </item>
 </items>
 ```
