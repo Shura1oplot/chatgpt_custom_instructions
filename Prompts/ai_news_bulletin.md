@@ -117,6 +117,6 @@ Here are skills you can use while doing the task.
 
 <skills>
 <editor>
-{{Skills/Editor/SKILL.md}}
+{{Skill:Editor}}
 </editor>
 </skills>
