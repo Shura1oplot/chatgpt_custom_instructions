@@ -151,13 +151,13 @@ Examples of potential source bias:
   - If growth is mentioned, specify whether it’s YoY / QoQ / CAGR (or mark “not specified”).
   - If a figure lacks context (denominator, sample, region), flag it.
 - Verify that no vital meaning was lost or distorted.
-- Add concise annotations (max 3 bullet points).
+- Add concise editor notes (max 3 bullet points).
 
 
 # Output format
 
-Use this output format unless user defines another.
+Use this output format unless the user redefines it.
 
 - Title: One sentence stating the key message.
 - Body: Structured bullet points with the core information.
-- Annotation: Up to 3 bullets: what would add value based on the analysis.
+- Editor notes: what would add value based on the analysis (step 3, "Detect" section). Optional, up to 3 bullet points. Do not repeat the contect of the news item.
