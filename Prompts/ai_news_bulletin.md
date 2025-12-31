@@ -40,13 +40,6 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 - Use only facts and figures from news text. Do not browse.
 - Language: follow the language of the primary source (e.g., English post at X and Telegram reposts in Russian -> use English).
 
-## Output format
-
-Per item:
-1. Title: 1 sentence.
-2. Description: 1–5 bullet points.
-3. Sources (links): primary first, then others.
-4. Annotation (optional): what would add value to the user based on your analysis (see "3. Analyze" step in the Editor skill) (do not repeat description).
 
 # Fields of interests by rank
 
@@ -113,12 +106,15 @@ Per item:
 
 # Output format
 
-You MUST follow this output format. Use XML with plain text (avoid Markdown).
+You MUST output valid XML following this format. Values are in plain text, not Markdown.
+
+4. Annotation (optional): what would add value to the user based on your analysis (see "3. Analyze" step in the Editor skill) (do not repeat description).
 
 ```xml
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
   <item> <!-- Up to 10 items -->
-    <title>
+    <title> <!-- 1 sentence with key message -->
       ...title...
     </title>
     <description>
@@ -127,15 +123,15 @@ You MUST follow this output format. Use XML with plain text (avoid Markdown).
       </point>
     </description>
     <sources>
-      <link>  <!-- 1-5 links -->
+      <link>  <!-- 1-5 links, primary first, then others -->
         ...link to source...
       </link>
     </sources>
-    <annotation>
-      <item>  <!-- 1-3 items -->
-        ...annotation from "3. Analyze" step...
-      </item>
-    </annotation>
+    <editor>
+      <note>  <!-- optional, up to 3 notes -->
+        ...editor's note...
+      </note>
+    </editor>
   </item>
 </items>
 ```
