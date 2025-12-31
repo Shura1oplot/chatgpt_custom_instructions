@@ -44,9 +44,9 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 
 Per item:
 1. Title: 1 sentence.
-2. Description: 1–3 sentences.
+2. Description: 1–5 bullet points.
 3. Sources (links): primary first, then others.
-4. Annotation (if applicable).
+4. Annotation (optional): what would add value to the user based on your analysis (see "3. Analyze" step in the Editor skill) (do not repeat description).
 
 # Fields of interests by rank
 
@@ -109,6 +109,36 @@ Per item:
 - Crypto/trading.
 - Clickbait like "top 10 AI tools".
 - Generic motivation, empty talks.
+
+
+# Output format
+
+You MUST follow this output format. Use XML with plain text (avoid Markdown).
+
+```xml
+<items>
+  <item> <!-- Up to 10 items -->
+    <title>
+      ...title...
+    </title>
+    <description>
+      <point>  <!-- 1-5 bullet points -->
+        ...key message/fact/etc...
+      </point>
+    </description>
+    <sources>
+      <link>  <!-- 1-5 links -->
+        ...link to source...
+      </link>
+    </sources>
+    <annotation>
+      <item>  <!-- 1-3 items -->
+        ...annotation from "3. Analyze" step...
+      </item>
+    </annotation>
+  </item>
+</items>
+```
 
 
 # Skills
