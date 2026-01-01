@@ -39,6 +39,7 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 - Deduplicate items: same topic, event, timeframe. Primary sources have priority.
 - Use only facts and figures from news text. Do not browse.
 - Language: follow the language of the primary source (e.g., English post at X and Telegram reposts in Russian -> use English).
+- Order news items by their priority and relevance (rank) to the user based on their interests.
 
 
 # Fields of interests by rank
@@ -95,7 +96,7 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 - Self-driving.
 
 
-# Exclude (banned topics)
+## Exclude
 
 - Not AI.
 - Ads, promotions, "partner's content".
@@ -106,12 +107,15 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 
 # Output format
 
-You MUST output valid XML following this format. Values are in plain text, not Markdown.
+You MUST output valid XML following this format. Values are in plain text, not Markdown. You may use CDATA tags if necessary.
 
-4. Annotation (optional): what would add value to the user based on your analysis (see "3. Analyze" step in the Editor skill) (do not repeat description).
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
+<agent-thinking-summary>
+  ...A brief summary explaining why you decided to select these news items...
+  ...The reason behind selecting the TOP-3...
+</agent-thinking-summary>
 <items>
   <item> <!-- Up to 10 items -->
     <title> <!-- 1 sentence with key message -->
