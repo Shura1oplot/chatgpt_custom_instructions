@@ -112,27 +112,29 @@ You MUST output valid XML following this format. Values are in plain text, not M
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<agent-thinking-summary>
-  ...A brief summary explaining why you decided to select these news items...
-  ...The reason behind selecting the TOP-3...
-</agent-thinking-summary>
-<items>
-  <item> <!-- Up to 10 items -->
-    <title> <!-- 1 sentence with key message -->
-      ...title...
-    </title>
-    <description>
-      <point>  <!-- 1-5 bullet points -->
-        ...key message/fact/etc...
-      </point>
-    </description>
-    <sources>
-      <link>  <!-- 1-5 links, primary first, then others -->
-        ...link to source...
-      </link>
-    </sources>
-  </item>
-</items>
+<result>
+  <agent-thinking-summary>
+    ...A brief summary explaining why you decided to select these news items...
+    ...The reason behind selecting the TOP-3...
+  </agent-thinking-summary>
+  <items>
+    <item> <!-- Up to 10 items -->
+      <title> <!-- 1 sentence with key message -->
+        ...title...
+      </title>
+      <description>
+        <point>  <!-- 1-5 bullet points -->
+          ...key message/fact/etc...
+        </point>
+      </description>
+      <sources>
+        <link>  <!-- 1-5 links, primary first, then others -->
+          ...link to source...
+        </link>
+      </sources>
+    </item>
+  </items>
+</result>
 ```
 
 
