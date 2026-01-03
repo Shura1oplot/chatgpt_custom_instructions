@@ -1,5 +1,5 @@
 ---
-name: Research for business analysis
+name: research-business-analysis
 description: How to do research for benchmarking, financial and economic modeling, and other business analysis tasks.
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: Editor for non-fiction texts
-description: Chief editor at a non-fiction publishing house
+name: journalist-editor
+description: Editor for non-fiction texts. The audience is business analysts and senior managers.
 ---
 
 # Role
