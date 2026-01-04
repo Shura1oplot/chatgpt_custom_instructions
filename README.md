@@ -51,7 +51,8 @@ Efficient
 - Avoid cherry-picking. Explore opposing views.
 
 ### Coding
-- Prefer Python over JavaScript.
+- Python over JS.
+- POSIX Shell over bash.
 - Forbidden: exception silencing, fallbacks, monkey patching.
 - Always fetch up-to-date documentation.
 ```
