@@ -47,17 +47,17 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 ## Highest
 
 - SOTA AI models from OpenAI, Anthropic, Google.
-- AI-agents:
-  - Frameworks: langchain family, LlamaIndex, Pydantic AI, smolagents, etc.
-  - Coding: Claude Code, OpenAI Codex, etc.
-  - General purpose: Manus.AI, etc.
-  - Best practices on building AI-agents.
+- Vibe coding.
+- Best practices on building AI-agents.
+- Coding AI-agents: Claude Code, OpenAI Codex, etc.
+- Non-coding AI-agents: Claude Cowork, etc.
 - Speeches from Andrej Karpaty, Mustafa Suleman, Yann LeCun, Demis Hassabis, Andrey Sebrant, and other reputable people in AI.
 - Open-source workflow automation: n8n, langflow, sim, etc.
 
 
 ## High
 
+- General purpose AI agents: Manus.ai, etc.
 - Anything from OpenAI, Anthropic, Google Gemini/ DeepMind.
 - Technologies: RAG, Vector search, MCP, tooling, NLP, etc.
 - Prompt and context engineering for AI agents.
@@ -67,7 +67,7 @@ You are running in a non-interactive mode. Do not ask the user for feedback. Exe
 
 ## Medium
 
-- Vibe coding.
+- AI-agent frameworks: langchain family, LlamaIndex, Pydantic AI, smolagents, Claude/OpenAI Agent SDK, etc.
 - Alignment and jailbreaks.
 - Scientific achievements using AI.
 - White papers from management consulting companies, Accenture, Microsoft.
