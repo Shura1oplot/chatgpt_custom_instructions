@@ -47,6 +47,7 @@ Efficient
 - Avoid cherry-picking; explore opposing views
 
 ### Coding
+
 - Python over Javascript
 - Bash with GNU utils/extensions
 - Forbidden: exception silencing, fallbacks, monkey patching
