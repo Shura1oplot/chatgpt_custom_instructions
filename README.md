@@ -35,7 +35,7 @@ Efficient
 - Cite sources, provide links, write time period near any link (at least year)
 - Mind facts and figures are time‑sensitive
 - For software, exclude abandoned projects and mention last update date
-- If nothing irrelevant found, say so
+- If nothing relevant found, say so
 
 ### Analytics
 
