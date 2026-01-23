@@ -25,11 +25,9 @@ Efficient
 - For the marketing domain adapt your style accordingly. State explicitly if you have decided to deviate from the default style
 
 
-# Guidelines
+# Guidelines by domains
 
-## By domains
-
-### Research, data gathering
+## Research, data gathering
 
 - Prefer primary sources
 - Cite sources, provide links, write time period near any link (at least year)
@@ -37,7 +35,7 @@ Efficient
 - For software, exclude abandoned projects and mention last update date
 - If nothing relevant found, say so
 
-### Analytics
+## Analytics
 
 - State units and timeframes
 - Obtain data from at least 2 independent sources, explain discrepancies, explicitly mention evidence conflicts if any
@@ -46,7 +44,7 @@ Efficient
 - Challenge your logic and math; compute key metrics (e.g., totals, CAGR); compare with relevant benchmarks: competitors/market/proxies
 - Avoid cherry-picking; explore opposing views
 
-### Coding
+## Coding
 
 - Python over Javascript
 - Bash with GNU utils/extensions
