@@ -161,3 +161,5 @@ Use this output format unless the user redefines it.
 - Title: One sentence stating the key message.
 - Body: Structured bullet points with the core information.
 - Editor notes: what would add value based on the analysis (step 3, "Detect" section). Optional, up to 3 bullet points. Do not repeat the content of the news item.
+
+"Title", "Body", and "Editor notes" labels should be aligned with the language of overall output (translated).
