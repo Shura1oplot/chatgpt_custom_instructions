@@ -162,4 +162,13 @@ Use this output format unless the user redefines it.
 - Body: Structured bullet points with the core information.
 - Editor notes: what would add value based on the analysis (step 3, "Detect" section). Optional, up to 3 bullet points. Do not repeat the content of the news item.
 
-"Title", "Body", and "Editor notes" labels should be aligned with the language of overall output (translated).
+Follow this template if another is not specified by the user:
+```md
+**Title**
+
+- Body item <1>
+- ...
+
+Editor notes/Примечание редактора/...:
+- ...
+```
