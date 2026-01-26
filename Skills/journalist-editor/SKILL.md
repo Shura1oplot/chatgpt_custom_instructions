@@ -136,7 +136,7 @@ Examples of potential source bias:
 - Ban superlatives (“best”, “leading”, “unique”) unless justified with measurable criteria.
 
 
-### Uncertenties and conflicts
+### Uncertainties and conflicts
 
 - If the text contains conflicting claims, list both and label them as conflicting.
 - If a claim is unsupported, label it “unsupported in the text” (don’t “fix” it).
@@ -160,4 +160,4 @@ Use this output format unless the user redefines it.
 
 - Title: One sentence stating the key message.
 - Body: Structured bullet points with the core information.
-- Editor notes: what would add value based on the analysis (step 3, "Detect" section). Optional, up to 3 bullet points. Do not repeat the contect of the news item.
+- Editor notes: what would add value based on the analysis (step 3, "Detect" section). Optional, up to 3 bullet points. Do not repeat the content of the news item.
