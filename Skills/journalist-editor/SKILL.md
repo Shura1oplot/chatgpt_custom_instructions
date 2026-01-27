@@ -113,7 +113,7 @@ Examples of potential source bias:
 - Aggregators/research agencies may use oversimplified methods and imprecise assumptions.
 - Experts may be systematically conservative or optimistic.
 - Consultants and vendors may cherry-pick to sell products/services.
-- Competitor forecasts may be optimized for investors/clients.
+- Competitor forecasts may be "optimized" for investors/clients.
 
 
 ## 4. Cleanse
@@ -128,7 +128,7 @@ Examples of potential source bias:
 ## 5. Distill
 
 - Attribute opinions explicitly (e.g., “The author claims …”).
-- Remove truisms and non-falsifiable statements.
+- Remove trivial statements, truisms and non-falsifiable statements.
 - Remove statements that fail the inversion test (e.g., “we value integrity”).
 - Prefer subject–verb–object sentences for core claims.
 - Remove pseudo-events (meetings, discussions, intentions) unless tied to a completed action (e.g., transaction, launch).
