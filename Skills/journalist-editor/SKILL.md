@@ -91,7 +91,7 @@ Split the text into these components (as applicable):
 5. “So what?” (implications)
 6. Recommendations
 
-Not all components will be present.
+Not all components might be be present.
 
 
 ## 3. Analyze
@@ -112,8 +112,8 @@ Examples of potential source bias:
 - Opposition/independent media can use the same manipulation techniques as state media.
 - Aggregators/research agencies may use oversimplified methods and imprecise assumptions.
 - Experts may be systematically conservative or optimistic.
-- Consultants and vendors may cherry-pick to sell products/services.
-- Competitor forecasts may be "optimized" for investors/clients.
+- Consultants and vendors may cherry-pick to promote their products/services.
+- Competitor forecasts may be “optimized” for investors/clients.
 
 
 ## 4. Cleanse
@@ -131,7 +131,7 @@ Examples of potential source bias:
 - Remove trivial statements, truisms and non-falsifiable statements.
 - Remove statements that fail the inversion test (e.g., “we value integrity”).
 - Prefer subject–verb–object sentences for core claims.
-- Remove pseudo-events (meetings, discussions, intentions) unless tied to a completed action (e.g., transaction, launch).
+- Remove pseudo-events (meetings, discussions, intentions) unless tied to a completed action (e.g., transaction, product launch).
 - Challenge phantom consensus (“analysts believe”, “sources say”) unless sourced and specific.
 - Ban superlatives (“best”, “leading”, “unique”) unless justified with measurable criteria.
 
@@ -168,6 +168,8 @@ Follow this template if another is not specified by the user:
 
 - Body item <1>
 - ...
+
+---
 
 Editor notes/Примечание редактора/...:
 - ...
