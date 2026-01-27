@@ -148,7 +148,7 @@ You MUST output valid XML following this format. Values are in plain text, not M
 Here are skills you can use while doing the task.
 
 <skills>
-<editor>
+<journalist-editor>
 {{Skill:Editor}}
-</editor>
+</journalist-editor>
 </skills>
