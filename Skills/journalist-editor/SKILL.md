@@ -76,8 +76,20 @@ Noise types and common markers:
 
 5. Clickbait
    - Sensational wording
-   - Listicles and “hacks” (e.g., “5 takeaways”)
+   - Listicles and “hacks“ (e.g., “5 takeaways”)
    - Curiosity traps with missing specifics
+
+6. Scholarly/academic style
+   - Excessive hedging and qualifier stacking (e.g., “it could perhaps be argued that“, “to some extent“)
+   - Passive voice hiding agency (e.g., “it was found“, “the decision was made“)
+   - Nominalization bloat (e.g., “the implementation of" instead of “implementing“, “utilization“ instead of “use“)
+   - Filler phrases (e.g., “it is important to note that“, “it should be emphasized“)
+   - Meta-discourse (e.g., “this paper argues“, “as discussed in section 3“, “the remainder is organized as follows“)
+   - Ritualistic citation chains without synthesis
+   - Scope disclaimers irrelevant to the reader (e.g., “beyond the scope of this paper“, “future research should“)
+   - Verbose substitutes (e.g., “due to the fact that“ instead of “because“, “at this point in time“ instead of “now“)
+   - Tautological definitions (defining X using X)
+   - Jargon without operational meaning when plain language exists
 
 
 ## 2. Decompose
@@ -134,6 +146,7 @@ Examples of potential source bias:
 - Remove pseudo-events (meetings, discussions, intentions) unless tied to a completed action (e.g., transaction, product launch).
 - Challenge phantom consensus (“analysts believe”, “sources say”) unless sourced and specific.
 - Ban superlatives (“best”, “leading”, “unique”) unless justified with measurable criteria.
+- Mark circular logic and tautological definition cases.
 
 
 ### Uncertainties and conflicts
